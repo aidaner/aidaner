@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hi how have you been
-i been here for 2 years now
+hi how have you been</br>
+i been here for 2 years now</br>
 so uh i guess projects are coming soon!
