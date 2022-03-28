@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> Im just a thing LOL
-So uh it almost been 2 years on here
+-->
+hi how have you been
+i been here for 2 years now
+so uh i guess projects are coming soon!
