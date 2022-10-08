@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 hi how have you been</br>
-i been here for 2 years now</br>
-so uh i guess projects are coming soon!
+well uh its almost been 3 years</br>
+which is fun</br>
+half of my projects are random garbage
