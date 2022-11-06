@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </br>hi how have you been</br>
 well uh its almost been 3 years</br>
 which is fun</br>
-half of my projects are random garbage
+half of my projects are random garbage</br>
 nim is cool
