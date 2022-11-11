@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)</br>
+![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)
 </br>hi how have you been</br>
 well uh its almost been 3 years</br>
 which is fun</br>
