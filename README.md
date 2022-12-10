@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)</br>
 ![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)
 </br>hi how have you been</br>
-well uh its almost been 3 years</br>
+oh wow its been 3 years</br>
 which is fun</br>
 half of my projects are random garbage</br>
-nim is cool
+nim is cool</br>
+yeah
