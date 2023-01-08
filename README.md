@@ -20,5 +20,4 @@ Here are some ideas to get you started:
 oh wow its been 3 years</br>
 which is fun</br>
 half of my projects are random garbage</br>
-nim is cool</br>
 yeah
