@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 </br>hi how have you been</br>
 oh wow its been 3 years</br>
 which is fun</br>
+april 20 was funny</br>
 the funny thing is that i been more active because of a project LOL</br>
 half of my projects are random garbage</br>
 yeah
