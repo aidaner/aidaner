@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 oh wow its been 3 years</br>
 which is fun</br>
 the funny thing is that i been more active because of a 2 projects (maybe) LOL</br>
+a project might be released at some point!</br>
 half of my projects are random garbage</br>
 i like editing this for no reason
