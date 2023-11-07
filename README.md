@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)</br>
 ![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)
 </br>hi how have you been</br>
-oh wow its been 3 years</br>
+almost 4 years on github</br>
 which is fun</br>
-the funny thing is that i been more active because of a 2 projects (maybe) LOL</br>
-a project might be released at some point!</br>
-half of my projects are random garbage</br>
-i like editing this for no reason
+i might release a project at some point if i feel like doing it. lol</br>
+yeah
