@@ -21,4 +21,5 @@ almost 4 years on github</br>
 which is fun</br>
 i might release a project at some point if i feel like doing it. lol</br>
 yeah</br>
-christmas is almost here
+December is here</br> 
+christmas is getting close
