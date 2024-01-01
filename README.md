@@ -15,11 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)</br>
-![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)
-</br>hi how have you been</br>
-almost 4 years on github</br>
-which is fun</br>
-i might release a project at some point if i feel like doing it. lol</br>
-yeah</br>
-December is here</br> 
-christmas is getting close
+![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)</br>
+happy new year!!
