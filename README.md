@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)</br>
 ![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)</br>
-happy new year!!
+i might be doing something soon.
