@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aidaner&theme=github_dark)</br>
-![crap it didnt load sad](https://komarev.com/ghpvc/?username=aidaner)</br>
-Nothing to say right now
+![Badge Go Here](https://komarev.com/ghpvc/?username=aidaner)</br>
+Nothing
